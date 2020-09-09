@@ -8,7 +8,8 @@ background: url("IMG20200824080205.jpg");
 background-size: cover;
 }
 h1{
-    color: #712663;
+    color:#712663;
+    text-align: center;
 }
 .footer-nav{
     background-color:white;
@@ -24,3 +25,6 @@ nav a{
     padding :10px 10px 10px;
     justify-content: space-between 40%;
 }
+
+
+
