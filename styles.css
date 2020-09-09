@@ -1,25 +1,10 @@
 body{
-position: absolute;
-width: 1131px;
-height: 1442px;
-left: 21px;
-top: 132px;
+    position: absolute;
+    width: 1131px;
+    height: 1442px;
+    left: 21px;
+    top: 132px;
 background: url("IMG20200824080205.jpg");
-}
-
-.header{
-position: absolute;
-width: 381px;
-height: 78px;
-left: 339px;
-top: 11px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 72px;
-line-height: 84px;
-
-color: #712663;
+background-size: cover;
 }
 
