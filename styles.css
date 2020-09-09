@@ -7,4 +7,21 @@ body{
 background: url("IMG20200824080205.jpg");
 background-size: cover;
 }
+h1{
+    color: #712663;
+}
+.footer-nav{
+    background-color:white;
+}
+.ln{
+    display:flex;
+    justify-content: flex-end;
+    font-size:30px;
 
+    
+}
+nav a{
+    padding 10px 10px 10px;
+    justify-content: space-between 40%
+    ;
+}
