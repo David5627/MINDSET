@@ -6,7 +6,11 @@
     background-attachment: fixed;
 } */
 #intro{
+<<<<<<< HEAD
     background-image:url("./images/theory-of-mind.jpg");
+=======
+    background-image:url("./theory-of-mind.jpg");
+>>>>>>> 33e791000d8bd1b47b7f58b54694982193b0d380
     background-size:cover;
     background-position:center;
     height: 70vh;
@@ -14,6 +18,10 @@
 
 }
 #intro{
+<<<<<<< HEAD
+=======
+    color: #712663;
+>>>>>>> 33e791000d8bd1b47b7f58b54694982193b0d380
     text-align:center;
     font-size: 40px;
 }
@@ -26,6 +34,10 @@
     color: white;
 }
 nav{
+<<<<<<< HEAD
     background-color: black;
+=======
+    background-color:gray;
+>>>>>>> 33e791000d8bd1b47b7f58b54694982193b0d380
     background-size: 40px;
 }
