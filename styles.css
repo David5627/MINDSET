@@ -23,4 +23,9 @@
     display:flex;
     font-size: inherit;
     justify-content: space-around;
+    color: white;
+}
+nav{
+    background-color: black;
+    background-size: 40px;
 }
