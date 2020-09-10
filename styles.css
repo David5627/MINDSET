@@ -1,30 +1,26 @@
-body{
-    position: absolute;
-    width: 1131px;
-    height: 1442px;
-    left: 21px;
-    top: 132px;
-background: url("IMG20200824080205.jpg");
-background-size: cover;
+/* body{
+    background-image:url("./images/IMG20200824080205.jpg");
+    background-size:cover;
+    background-position:center  ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+#intro{
+    background-image:url("./images/theory-of-mind.jpg");
+    background-size:cover;
+    background-position:center;
+    height: 70vh;
+
+
 }
-h1{
-    color:#712663;
-    text-align: center;
+#intro{
+    text-align:center;
+    font-size: 40px;
 }
-.footer-nav{
-    background-color:white;
-}
+
+
 .ln{
     display:flex;
-    justify-content: flex-end;
-    font-size:30px;
-
-    
+    font-size: inherit;
+    justify-content: space-around;
 }
-nav a{
-    padding :10px 10px 10px;
-    justify-content: space-between 40%;
-}
-
-
-
