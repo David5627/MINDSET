@@ -1,5 +1,6 @@
 
 
+
 #intro{
     background-image:url("./images/theory-of-mind.jpg");
     background-size:cover;
@@ -25,4 +26,40 @@
 nav{
     background-color: #C4C4C4;
     background-size: 40px;
+}
+.making{
+    display: flex;
+    justify-content: center;
+}
+.fixed{
+    display: flex;
+    justify-content: flex-end;
+}
+.ind{
+    display:flex;
+    justify-content: flex-end;
+}
+.conc{
+    display: flex;
+    justify-content: center;
+}
+.making h2{
+    font-family: 'Lobster', cursive;
+ 
+   font-size: 30px;
+}
+.fa{
+    display: flex;
+    justify-content: center;
+
+}
+.fa i{
+    color: black;
+}
+#fixed{
+    font-style: normal;
+    font-size: 20x;
+}
+body{
+    background-color: ivory;
 }
